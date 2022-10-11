@@ -1,1 +1,1 @@
-An implementation of Deep Q Learning from scratch with PyTorch and OpenAI gym on the ATARI environment (Breakout).
+An implementation of Deep Q Learning from scratch with PyTorch and OpenAI gym on the ATARI environment (Breakout). The author of this code is Bryan Thornbury (@brthor) and all credit goes to him. I did some minor adjustments needed to keep up with numpy and added some QoL improvements.
